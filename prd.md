@@ -5,7 +5,6 @@
 1. header/nav
 -   name/logo
 -   links to sections (home, about, contact, projects)
--
 
 2. hero section
 -   "hi, i'm vansh baranwal - web developer" 
@@ -20,7 +19,6 @@
 4. projects
 -   card/list with links
 -   github repo links
--
 
 5. skills
 -   HTML
@@ -32,7 +30,6 @@
 6. contact me
 -   email link
 -   social links
--
 
 7. footer
 -   copyright
