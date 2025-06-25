@@ -23,15 +23,17 @@
 -
 
 5. skills
--
--
--
+-   HTML
+-   CSS
+-   JAVASCRIPT
+-   GIT, GITHUB
+-   PYTHON basics
 
 6. contact me
--
--
+-   email link
+-   social links
 -
 
 7. footer
--
--
+-   copyright
+-   socials

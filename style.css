@@ -2,4 +2,105 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* background-color: white; */
+}
+
+nav{
+    display: flex;
+    background-color: #c8ccd6;
+    color: black;
+    border: 25px solid #c8ccd6;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 80px;
+    
+}
+
+
+nav div ul{
+    display: flex;
+    gap: 25px;
+    list-style-type: none;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.herocontainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 20px solid #c8ccd6;
+    height: 615px;
+}
+img{
+    width: 500px;
+}
+.herocontainer p{
+    margin-left: 25px;
+    font-size: 60px;
+    font-family: "Edu SA Hand", cursive;
+    font-optical-sizing: auto;   
+    font-weight: 100px;
+    font-style: normal;
+
+}
+.herocontainer span{
+    font-size: 105px;
+    font-family: "Caprasimo", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.aboutme div{
+    background-color: #c8ccd6;
+    border: 20px solid #c8ccd6;
+}
+.aboutme h1{
+    font-size: 120px;
+    margin-left: 100px;
+}
+.aboutme p{
+    font-size: 30px;
+    margin: 0 100px;
+    margin-top: 20px;
+}
+.skills{
+    background-color: #c8ccd6;
+    border: 30px solid #c8ccd6;
+}
+.skills h1{
+    text-align: center;
+    margin: 30px;
+    font-size: 70px;
+}
+.skillscontainer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+    margin: 40px;
+    font-size: 120px;
+}
+
+.contactme{
+    border: 30px solid #c8ccd6;
+    background-color: #c8ccd6;
+}
+.contactmecontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 80px;
+    margin: 50px;
+    font-size: 80px;
+}
+.contactme h1{
+    text-align: center;
+    font-size: 70px;
+    margin: 20px;
+}
+.footer{
+    background-color: #c8ccd6;
 }
